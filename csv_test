@@ -1,0 +1,358 @@
+Date,Agent ID,Agent Name,Agent Activity,Length,Percent
+2022-04-01,10255,"Aaron, Hanssel",Break,0.5,0.0625
+2022-04-01,10255,"Aaron, Hanssel",Follow Up,0.366666667,0.0458
+2022-04-01,10255,"Aaron, Hanssel",Open Time,7.133333333,0.8917
+2022-04-01,4602,"Abreu, Crismar",ACW/ Open Time,0.833333333,0.1188
+2022-04-01,4602,"Abreu, Crismar",Break,0.55,0.0784
+2022-04-01,4602,"Abreu, Crismar",Lunch,0.583333333,0.0831
+2022-04-01,4602,"Abreu, Crismar",Open Time,4.2,0.5986
+2022-04-01,4602,"Abreu, Crismar",Restroom,0.85,0.1211
+2022-04-01,10323,"Acabal, Edgar",ACW/ Open Time,2.95,0.375
+2022-04-01,10323,"Acabal, Edgar",Break,0.25,0.0318
+2022-04-01,10323,"Acabal, Edgar",Follow Up,0.283333333,0.036
+2022-04-01,10323,"Acabal, Edgar",Open Time,4.266666667,0.5424
+2022-04-01,10323,"Acabal, Edgar",Unsched-Aux,0.116666667,0.0148
+2022-04-01,6265,"Adams, Mia",ACW/ Open Time,0.166666667,0.0524
+2022-04-01,6265,"Adams, Mia",Break,0.266666667,0.0838
+2022-04-01,6265,"Adams, Mia",Open Time,2.533333333,0.7958
+2022-04-01,6265,"Adams, Mia",Restroom,0.15,0.0471
+2022-04-01,6265,"Adams, Mia",Unsched-Aux,0.066666667,0.0209
+2022-04-01,9598,"Adams, Michael",ACW/ Open Time,1.416666667,0.1775
+2022-04-01,9598,"Adams, Michael",Break,0.516666667,0.0647
+2022-04-01,9598,"Adams, Michael",Open Time,6.033333333,0.7557
+2022-04-01,9598,"Adams, Michael",Unsched-Aux,0.016666667,0.0021
+2022-04-01,10043,"Aguilar, Albis",ACW/ Open Time,0.383333333,0.0478
+2022-04-01,10043,"Aguilar, Albis",Break,0.5,0.0624
+2022-04-01,10043,"Aguilar, Albis",Open Time,7.116666667,0.8877
+2022-04-01,10043,"Aguilar, Albis",Unsched-Aux,0.016666667,0.0021
+2022-04-01,10044,"Agustin, Caren",Break,0.516666667,0.0647
+2022-04-01,10044,"Agustin, Caren",Follow Up,0.05,0.0063
+2022-04-01,10044,"Agustin, Caren",Open Time,7.416666667,0.929
+2022-04-01,10287,"Agustin, Sergio",ACW/ Open Time,0.633333333,0.0787
+2022-04-01,10287,"Agustin, Sergio",Break,0.5,0.0621
+2022-04-01,10287,"Agustin, Sergio",Coaching,0.116666667,0.0145
+2022-04-01,10287,"Agustin, Sergio",Follow Up,0.866666667,0.1077
+2022-04-01,10287,"Agustin, Sergio",Open Time,5.8,0.7205
+2022-04-01,10287,"Agustin, Sergio",Restroom,0.083333333,0.0104
+2022-04-01,10287,"Agustin, Sergio",Unsched-Aux,0.05,0.0062
+2022-04-01,10218,"Ahumada, Stephanie",ACW/ Open Time,0.666666667,0.0857
+2022-04-01,10218,"Ahumada, Stephanie",Break,0.5,0.0642
+2022-04-01,10218,"Ahumada, Stephanie",Open Time,6.05,0.7773
+2022-04-01,10218,"Ahumada, Stephanie",Restroom,0.55,0.0707
+2022-04-01,10218,"Ahumada, Stephanie",Unsched-Aux,0.016666667,0.0021
+2022-04-01,6525,"Aikens, Destinee",Break,0.266666667,0.1356
+2022-04-01,6525,"Aikens, Destinee",Open Time,0.633333333,0.322
+2022-04-01,6525,"Aikens, Destinee",Team Meeting,1.066666667,0.5424
+2022-04-01,8654,"Aimes, Qiana",Break,0.45,0.0543
+2022-04-01,8654,"Aimes, Qiana",Lunch,0.716666667,0.0865
+2022-04-01,8654,"Aimes, Qiana",Open Time,7.116666667,0.8592
+2022-04-01,8062,"Ajcu, Andrea",ACW/ Open Time,0.366666667,0.0458
+2022-04-01,8062,"Ajcu, Andrea",Break,0.5,0.0625
+2022-04-01,8062,"Ajcu, Andrea",Follow Up,1.866666667,0.2333
+2022-04-01,8062,"Ajcu, Andrea",Open Time,5.2,0.65
+2022-04-01,8062,"Ajcu, Andrea",Restroom,0.066666667,0.0083
+2022-04-01,10288,"Ajxup, Glays",ACW/ Open Time,0.85,0.1056
+2022-04-01,10288,"Ajxup, Glays",Break,0.533333333,0.0663
+2022-04-01,10288,"Ajxup, Glays",Follow Up,1.366666667,0.1698
+2022-04-01,10288,"Ajxup, Glays",Open Time,5.283333333,0.6563
+2022-04-01,10288,"Ajxup, Glays",Unsched-Aux,0.016666667,0.0021
+2022-04-01,8085,"Alay, Sthefany",Break,0.483333333,0.0625
+2022-04-01,8085,"Alay, Sthefany",Correspondence,7.216666667,0.9332
+2022-04-01,8085,"Alay, Sthefany",Unsched-Aux,0.033333333,0.0043
+2022-04-01,9546,"Albores Abraham, Villegas",Break,0.5,0.0554
+2022-04-01,9546,"Albores Abraham, Villegas",Coaching,0.35,0.0388
+2022-04-01,9546,"Albores Abraham, Villegas",Open Time,8.083333333,0.8948
+2022-04-01,9546,"Albores Abraham, Villegas",Restroom,0.083333333,0.0092
+2022-04-01,9546,"Albores Abraham, Villegas",Unsched-Aux,0.016666667,0.0019
+2022-04-01,8756,"Alcaraz, Joseph",Break,0.516666667,0.0626
+2022-04-01,8756,"Alcaraz, Joseph",Follow Up,6.733333333,0.8162
+2022-04-01,8756,"Alcaraz, Joseph",Lunch,0.783333333,0.095
+2022-04-01,8756,"Alcaraz, Joseph",System Down,0.216666667,0.0263
+2022-04-01,9582,"Alexandre, Jasmine",ACW/ Open Time,0.166666667,0.0198
+2022-04-01,9582,"Alexandre, Jasmine",Break,0.6,0.0714
+2022-04-01,9582,"Alexandre, Jasmine",Lunch,0.5,0.0595
+2022-04-01,9582,"Alexandre, Jasmine",Open Time,6.983333333,0.8314
+2022-04-01,9582,"Alexandre, Jasmine",Restroom,0.15,0.0179
+2022-04-01,10010,"Alonzo, Carolina",Break,0.5,0.0622
+2022-04-01,10010,"Alonzo, Carolina",Open Time,7.433333333,0.9253
+2022-04-01,10010,"Alonzo, Carolina",Restroom,0.066666667,0.0083
+2022-04-01,10010,"Alonzo, Carolina",System Down,0.016666667,0.0021
+2022-04-01,10010,"Alonzo, Carolina",Unsched-Aux,0.016666667,0.0021
+2022-04-01,10257,"Alvarado, Alice",Break,0.566666667,0.0764
+2022-04-01,10257,"Alvarado, Alice",Open Time,6.683333333,0.9011
+2022-04-01,10257,"Alvarado, Alice",Restroom,0.15,0.0202
+2022-04-01,10257,"Alvarado, Alice",Unsched-Aux,0.016666667,0.0023
+2022-04-01,10101,"Alvarado, Melany",ACW/ Open Time,0.016666667,0.0019
+2022-04-01,10101,"Alvarado, Melany",Break,0.516666667,0.0574
+2022-04-01,10101,"Alvarado, Melany",Open Time,8.333333333,0.9259
+2022-04-01,10101,"Alvarado, Melany",Restroom,0.133333333,0.0148
+2022-04-01,9339,"Alvarez, Iris",ACW/ Open Time,0.433333333,0.0583
+2022-04-01,9339,"Alvarez, Iris",Break,0.483333333,0.065
+2022-04-01,9339,"Alvarez, Iris",Open Time,6.166666667,0.8296
+2022-04-01,9339,"Alvarez, Iris",Restroom,0.3,0.0404
+2022-04-01,9339,"Alvarez, Iris",Unsched-Aux,0.05,0.0067
+2022-04-01,10155,"Anderson, Erykah",Break,0.25,0.0366
+2022-04-01,10155,"Anderson, Erykah",Follow Up,0.033333333,0.0049
+2022-04-01,10155,"Anderson, Erykah",Open Time,3.633333333,0.5317
+2022-04-01,10155,"Anderson, Erykah",System Down,2.716666667,0.3976
+2022-04-01,10155,"Anderson, Erykah",Unsched-Aux,0.2,0.0293
+2022-04-01,10428,"Anderson, Jamila",Break,0.25,0.04
+2022-04-01,10428,"Anderson, Jamila",Open Time,2.966666667,0.4747
+2022-04-01,10428,"Anderson, Jamila",Restroom,0.283333333,0.0453
+2022-04-01,10428,"Anderson, Jamila",Training,2.516666667,0.4027
+2022-04-01,10428,"Anderson, Jamila",Unsched-Aux,0.233333333,0.0373
+2022-04-01,9583,"Anderson, Kaiera",ACW/ Open Time,0.283333333,0.0354
+2022-04-01,9583,"Anderson, Kaiera",Break,0.566666667,0.0708
+2022-04-01,9583,"Anderson, Kaiera",Follow Up,0.166666667,0.0208
+2022-04-01,9583,"Anderson, Kaiera",Lunch,0.516666667,0.0646
+2022-04-01,9583,"Anderson, Kaiera",Open Time,6.4,0.8
+2022-04-01,9583,"Anderson, Kaiera",Unsched-Aux,0.066666667,0.0083
+2022-04-01,10012,"Andrus, Berlissa",ACW/ Open Time,2.833333333,0.3166
+2022-04-01,10012,"Andrus, Berlissa",Break,0.533333333,0.0596
+2022-04-01,10012,"Andrus, Berlissa",Lunch,0.766666667,0.0857
+2022-04-01,10012,"Andrus, Berlissa",Open Time,4.433333333,0.4953
+2022-04-01,10012,"Andrus, Berlissa",Restroom,0.15,0.0168
+2022-04-01,10012,"Andrus, Berlissa",Unsched-Aux,0.233333333,0.0261
+2022-04-01,7125,"Anyair, Krystal",ACW/ Open Time,0.083333333,0.01
+2022-04-01,7125,"Anyair, Krystal",Break,0.5,0.06
+2022-04-01,7125,"Anyair, Krystal",Lunch,0.516666667,0.062
+2022-04-01,7125,"Anyair, Krystal",Open Time,6.833333333,0.82
+2022-04-01,7125,"Anyair, Krystal",Restroom,0.15,0.018
+2022-04-01,7125,"Anyair, Krystal",System Down,0.25,0.03
+2022-04-01,8819,"Aponte, Ana",Break,0.3,0.0756
+2022-04-01,8819,"Aponte, Ana",Lunch,0.75,0.1891
+2022-04-01,8819,"Aponte, Ana",Open Time,2.666666667,0.6723
+2022-04-01,8819,"Aponte, Ana",Restroom,0.2,0.0504
+2022-04-01,8819,"Aponte, Ana",Unsched-Aux,0.05,0.0126
+2022-04-01,9352,"Arevalo, Sairis",ACW/ Open Time,0.483333333,0.0524
+2022-04-01,9352,"Arevalo, Sairis",Break,0.5,0.0543
+2022-04-01,9352,"Arevalo, Sairis",Open Time,8.166666667,0.8861
+2022-04-01,9352,"Arevalo, Sairis",System Down,0.05,0.0054
+2022-04-01,9352,"Arevalo, Sairis",Unsched-Aux,0.016666667,0.0018
+2022-04-01,8088,"Arranz, Iratxe",Break,0.5,0.0652
+2022-04-01,8088,"Arranz, Iratxe",Follow Up,0.733333333,0.0957
+2022-04-01,8088,"Arranz, Iratxe",Open Time,6.433333333,0.8391
+2022-04-01,10219,"Arroyo, Maria",Break,0.5,0.0611
+2022-04-01,10219,"Arroyo, Maria",Open Time,7.666666667,0.9369
+2022-04-01,10219,"Arroyo, Maria",Unsched-Aux,0.016666667,0.002
+2022-04-01,10259,"Arvalo, Wilmer",ACW/ Open Time,0.05,0.0062
+2022-04-01,10259,"Arvalo, Wilmer",Break,0.5,0.0624
+2022-04-01,10259,"Arvalo, Wilmer",Open Time,7.45,0.9293
+2022-04-01,10259,"Arvalo, Wilmer",Unsched-Aux,0.016666667,0.0021
+2022-04-01,9522,"Ashly, Melody",Break,0.55,0.0699
+2022-04-01,9522,"Ashly, Melody",Open Time,7.233333333,0.9195
+2022-04-01,9522,"Ashly, Melody",Unsched-Aux,0.083333333,0.0106
+2022-04-01,8065,"Aspuac, Cristian",ACW/ Open Time,0.083333333,0.0104
+2022-04-01,8065,"Aspuac, Cristian",Break,0.5,0.0625
+2022-04-01,8065,"Aspuac, Cristian",Follow Up,0.633333333,0.0792
+2022-04-01,8065,"Aspuac, Cristian",Open Time,6.716666667,0.8396
+2022-04-01,8065,"Aspuac, Cristian",Restroom,0.066666667,0.0083
+2022-04-01,9688,"Astillero, C Trejo",ACW/ Open Time,0.166666667,0.0202
+2022-04-01,9688,"Astillero, C Trejo",Break,0.5,0.0606
+2022-04-01,9688,"Astillero, C Trejo",Follow Up,0.35,0.0424
+2022-04-01,9688,"Astillero, C Trejo",Lunch,0.5,0.0606
+2022-04-01,9688,"Astillero, C Trejo",Open Time,6.733333333,0.8162
+2022-04-01,9098,"Atwell, Alivia",ACW/ Open Time,1.25,0.3659
+2022-04-01,9098,"Atwell, Alivia",Open Time,1.25,0.3659
+2022-04-01,9098,"Atwell, Alivia",Restroom,0.65,0.1902
+2022-04-01,9098,"Atwell, Alivia",System Down,0.133333333,0.039
+2022-04-01,9098,"Atwell, Alivia",Unsched-Aux,0.133333333,0.039
+2022-04-01,8089,"Ayala, Daphne",Break,0.516666667,0.0645
+2022-04-01,8089,"Ayala, Daphne",Open Time,7.483333333,0.9335
+2022-04-01,8089,"Ayala, Daphne",Unsched-Aux,0.016666667,0.0021
+2022-04-01,9413,"Ayala, Karen",ACW/ Open Time,1.15,0.1792
+2022-04-01,9413,"Ayala, Karen",Break,0.466666667,0.0727
+2022-04-01,9413,"Ayala, Karen",Open Time,4.733333333,0.7377
+2022-04-01,9413,"Ayala, Karen",Unsched-Aux,0.066666667,0.0104
+2022-04-01,4638,"Bailey, Aneesha",Break,0.516666667,0.0623
+2022-04-01,4638,"Bailey, Aneesha",Lunch,0.783333333,0.0944
+2022-04-01,4638,"Bailey, Aneesha",Open Time,6.8,0.8193
+2022-04-01,4638,"Bailey, Aneesha",System Down,0.1,0.0121
+2022-04-01,4638,"Bailey, Aneesha",Unsched-Aux,0.1,0.0121
+2022-04-01,9419,"Baires, Abimael",ACW/ Open Time,2.75,0.3548
+2022-04-01,9419,"Baires, Abimael",Break,0.566666667,0.0731
+2022-04-01,9419,"Baires, Abimael",Open Time,4.3,0.5548
+2022-04-01,9419,"Baires, Abimael",Unsched-Aux,0.133333333,0.0172
+2022-04-01,10430,"Baker, Cameron",Break,1.2,0.2526
+2022-04-01,10430,"Baker, Cameron",Open Time,1.333333333,0.2807
+2022-04-01,10430,"Baker, Cameron",Training,2.216666667,0.4667
+2022-04-01,10182,"Balin, Michael",ACW/ Open Time,0.05,0.0063
+2022-04-01,10182,"Balin, Michael",Break,0.566666667,0.0714
+2022-04-01,10182,"Balin, Michael",Follow Up,1.25,0.1576
+2022-04-01,10182,"Balin, Michael",Lunch,0.8,0.1008
+2022-04-01,10182,"Balin, Michael",Open Time,5.25,0.6618
+2022-04-01,10182,"Balin, Michael",Restroom,0.016666667,0.0021
+2022-04-01,10045,"Baltazar, Sergio",Break,0.6,0.0748
+2022-04-01,10045,"Baltazar, Sergio",Open Time,7.2,0.8981
+2022-04-01,10045,"Baltazar, Sergio",Restroom,0.2,0.025
+2022-04-01,10045,"Baltazar, Sergio",Unsched-Aux,0.016666667,0.0021
+2022-04-01,10183,"Baltodano, Israel",Break,0.5,0.0616
+2022-04-01,10183,"Baltodano, Israel",Coaching,0.666666667,0.0821
+2022-04-01,10183,"Baltodano, Israel",Lunch,0.75,0.0924
+2022-04-01,10183,"Baltodano, Israel",Open Time,5.266666667,0.6489
+2022-04-01,10183,"Baltodano, Israel",Restroom,0.466666667,0.0575
+2022-04-01,10183,"Baltodano, Israel",System Down,0.35,0.0431
+2022-04-01,10183,"Baltodano, Israel",Unsched-Aux,0.116666667,0.0144
+2022-04-01,10125,"Barley, Joshua",ACW/ Open Time,0.016666667,0.0022
+2022-04-01,10125,"Barley, Joshua",Break,0.633333333,0.0839
+2022-04-01,10125,"Barley, Joshua",Open Time,6.883333333,0.9117
+2022-04-01,10125,"Barley, Joshua",System Down,0.016666667,0.0022
+2022-04-01,8090,"Barrera, Luis",ACW/ Open Time,0.1,0.0125
+2022-04-01,8090,"Barrera, Luis",Break,0.5,0.0625
+2022-04-01,8090,"Barrera, Luis",Follow Up,0.166666667,0.0208
+2022-04-01,8090,"Barrera, Luis",Open Time,7.15,0.8938
+2022-04-01,8090,"Barrera, Luis",Restroom,0.083333333,0.0104
+2022-04-01,7046,"Barringer, Russell",ACW/ Open Time,0.816666667,0.1099
+2022-04-01,7046,"Barringer, Russell",Break,0.55,0.074
+2022-04-01,7046,"Barringer, Russell",Coaching,0.05,0.0067
+2022-04-01,7046,"Barringer, Russell",Open Time,5.933333333,0.7982
+2022-04-01,7046,"Barringer, Russell",System Down,0.05,0.0067
+2022-04-01,7046,"Barringer, Russell",Unsched-Aux,0.033333333,0.0045
+2022-04-01,9977,"Barrios, Jessica",ACW/ Open Time,0.883333333,0.1107
+2022-04-01,9977,"Barrios, Jessica",Break,0.533333333,0.0668
+2022-04-01,9977,"Barrios, Jessica",Open Time,6.55,0.8205
+2022-04-01,9977,"Barrios, Jessica",Unsched-Aux,0.016666667,0.0021
+2022-04-01,10324,"Barrios, Lucia",Break,0.533333333,0.0628
+2022-04-01,10324,"Barrios, Lucia",Coaching,1.016666667,0.1196
+2022-04-01,10324,"Barrios, Lucia",Follow Up,0.683333333,0.0804
+2022-04-01,10324,"Barrios, Lucia",Open Time,6.25,0.7353
+2022-04-01,10324,"Barrios, Lucia",Unsched-Aux,0.016666667,0.002
+2022-04-01,5777,"Baseman, Zachary",ACW/ Open Time,0.016666667,0.0036
+2022-04-01,5777,"Baseman, Zachary",Break,0.25,0.0546
+2022-04-01,5777,"Baseman, Zachary",Follow Up,0.733333333,0.16
+2022-04-01,5777,"Baseman, Zachary",Lunch,0.5,0.1091
+2022-04-01,5777,"Baseman, Zachary",Open Time,2.45,0.5346
+2022-04-01,5777,"Baseman, Zachary",Restroom,0.066666667,0.0146
+2022-04-01,5777,"Baseman, Zachary",Team Meeting,0.566666667,0.1236
+2022-04-01,1070,"Baynes, Maria",ACW/ Open Time,0.216666667,0.0259
+2022-04-01,1070,"Baynes, Maria",Break,0.516666667,0.0618
+2022-04-01,1070,"Baynes, Maria",Lunch,0.766666667,0.0916
+2022-04-01,1070,"Baynes, Maria",Open Time,6.75,0.8068
+2022-04-01,1070,"Baynes, Maria",Unsched-Aux,0.116666667,0.0139
+2022-04-01,1261,"Beacham, Miriam",ACW/ Open Time,0.133333333,0.0162
+2022-04-01,1261,"Beacham, Miriam",Break,0.683333333,0.0828
+2022-04-01,1261,"Beacham, Miriam",Lunch,0.816666667,0.099
+2022-04-01,1261,"Beacham, Miriam",Open Time,6.6,0.8
+2022-04-01,1261,"Beacham, Miriam",Unsched-Aux,0.016666667,0.002
+2022-04-01,7008,"Beard, Eric",ACW/ Open Time,0.066666667,0.0084
+2022-04-01,7008,"Beard, Eric",Break,0.233333333,0.0293
+2022-04-01,7008,"Beard, Eric",Coaching,0.033333333,0.0042
+2022-04-01,7008,"Beard, Eric",Lunch,0.75,0.0941
+2022-04-01,7008,"Beard, Eric",Open Time,4.95,0.6213
+2022-04-01,7008,"Beard, Eric",Restroom,0.516666667,0.0649
+2022-04-01,7008,"Beard, Eric",System Down,1.416666667,0.1778
+2022-04-01,5471,"Beasley, Aja",ACW/ Open Time,0.216666667,0.1383
+2022-04-01,5471,"Beasley, Aja",Open Time,1.1,0.7021
+2022-04-01,5471,"Beasley, Aja",Restroom,0.2,0.1277
+2022-04-01,5471,"Beasley, Aja",System Down,0.05,0.0319
+2022-04-01,8509,"Beckham, Karen",ACW/ Open Time,0.2,0.0774
+2022-04-01,8509,"Beckham, Karen",Break,0.25,0.0968
+2022-04-01,8509,"Beckham, Karen",Open Time,2.133333333,0.8258
+2022-04-01,8495,"Bernard, Michelle",ACW/ Open Time,1.083333333,0.1574
+2022-04-01,8495,"Bernard, Michelle",Break,0.583333333,0.0848
+2022-04-01,8495,"Bernard, Michelle",Open Time,4.7,0.6828
+2022-04-01,8495,"Bernard, Michelle",System Down,0.45,0.0654
+2022-04-01,8495,"Bernard, Michelle",Unsched-Aux,0.066666667,0.0097
+2022-04-01,9512,"Berner, Lester",ACW/ Open Time,1.116666667,0.1898
+2022-04-01,9512,"Berner, Lester",Break,0.55,0.0935
+2022-04-01,9512,"Berner, Lester",Follow Up,0.15,0.0255
+2022-04-01,9512,"Berner, Lester",Open Time,3.216666667,0.5467
+2022-04-01,9512,"Berner, Lester",Restroom,0.133333333,0.0227
+2022-04-01,9512,"Berner, Lester",System Down,0.266666667,0.0453
+2022-04-01,9512,"Berner, Lester",Unsched-Aux,0.45,0.0765
+2022-04-01,9949,"Best, Sharon",ACW/ Open Time,0.8,0.0962
+2022-04-01,9949,"Best, Sharon",Break,0.5,0.0601
+2022-04-01,9949,"Best, Sharon",Lunch,0.75,0.0902
+2022-04-01,9949,"Best, Sharon",Open Time,6.233333333,0.7495
+2022-04-01,9949,"Best, Sharon",Restroom,0.033333333,0.004
+2022-04-01,5163,"Blackman, Wadiyah",ACW/ Open Time,0.016666667,0.0025
+2022-04-01,5163,"Blackman, Wadiyah",Break,0.3,0.0449
+2022-04-01,5163,"Blackman, Wadiyah",Coaching,0.3,0.0449
+2022-04-01,5163,"Blackman, Wadiyah",Follow Up,0.233333333,0.0349
+2022-04-01,5163,"Blackman, Wadiyah",Open Time,5.6,0.8379
+2022-04-01,5163,"Blackman, Wadiyah",Restroom,0.05,0.0075
+2022-04-01,5163,"Blackman, Wadiyah",Unsched-Aux,0.183333333,0.0274
+2022-04-01,9634,"Blanco, Silvia",ACW/ Open Time,0.1,0.0203
+2022-04-01,9634,"Blanco, Silvia",Break,0.25,0.0509
+2022-04-01,9634,"Blanco, Silvia",Open Time,4.566666667,0.9288
+2022-04-01,554,"Blount, Judith",Break,0.25,0.0718
+2022-04-01,554,"Blount, Judith",Open Time,3.183333333,0.9139
+2022-04-01,554,"Blount, Judith",System Down,0.033333333,0.0096
+2022-04-01,554,"Blount, Judith",Unsched-Aux,0.016666667,0.0048
+2022-04-01,8832,"Bolger, Jeremaine",ACW/ Open Time,0.216666667,0.0261
+2022-04-01,8832,"Bolger, Jeremaine",Break,0.5,0.0602
+2022-04-01,8832,"Bolger, Jeremaine",Coaching,0.25,0.0301
+2022-04-01,8832,"Bolger, Jeremaine",Follow Up,0.483333333,0.0582
+2022-04-01,8832,"Bolger, Jeremaine",Lunch,0.75,0.0904
+2022-04-01,8832,"Bolger, Jeremaine",Open Time,6.1,0.7349
+2022-04-01,8936,"Boothby, Kelsey",ACW/ Open Time,0.433333333,0.0551
+2022-04-01,8936,"Boothby, Kelsey",Break,0.566666667,0.072
+2022-04-01,8936,"Boothby, Kelsey",Open Time,6.483333333,0.8242
+2022-04-01,8936,"Boothby, Kelsey",Restroom,0.133333333,0.017
+2022-04-01,8936,"Boothby, Kelsey",System Down,0.15,0.0191
+2022-04-01,8936,"Boothby, Kelsey",Unsched-Aux,0.1,0.0127
+2022-04-01,5070,"Borboa, Norma",Open Time,1.05,0.2636
+2022-04-01,5070,"Borboa, Norma",System Down,2.933333333,0.7364
+2022-04-01,10365,"Bou, Shariana",ACW/ Open Time,0.816666667,0.0996
+2022-04-01,10365,"Bou, Shariana",Break,0.516666667,0.063
+2022-04-01,10365,"Bou, Shariana",Lunch,0.766666667,0.0935
+2022-04-01,10365,"Bou, Shariana",Open Time,5.3,0.6463
+2022-04-01,10365,"Bou, Shariana",System Down,0.1,0.0122
+2022-04-01,10365,"Bou, Shariana",Team Meeting,0.7,0.0854
+2022-04-01,9789,"Boyd, Aisha",Break,0.266666667,0.0315
+2022-04-01,9789,"Boyd, Aisha",Coaching,0.333333333,0.0394
+2022-04-01,9789,"Boyd, Aisha",Follow Up,0.066666667,0.0079
+2022-04-01,9789,"Boyd, Aisha",Lunch,0.75,0.0886
+2022-04-01,9789,"Boyd, Aisha",Open Time,5.65,0.6673
+2022-04-01,9789,"Boyd, Aisha",Restroom,0.033333333,0.0039
+2022-04-01,9789,"Boyd, Aisha",System Down,0.066666667,0.0079
+2022-04-01,9789,"Boyd, Aisha",Team Meeting,1.083333333,0.128
+2022-04-01,9789,"Boyd, Aisha",Unsched-Aux,0.216666667,0.0256
+2022-04-01,8959,"Boykin, Jessie",Break,0.05,0.0079
+2022-04-01,8959,"Boykin, Jessie",Follow Up,0.066666667,0.0105
+2022-04-01,8959,"Boykin, Jessie",Lunch,0.766666667,0.1207
+2022-04-01,8959,"Boykin, Jessie",Open Time,5.466666667,0.8609
+2022-04-01,5934,"Braddock, Theresa",ACW/ Open Time,0.25,0.1035
+2022-04-01,5934,"Braddock, Theresa",Break,0.233333333,0.0966
+2022-04-01,5934,"Braddock, Theresa",Open Time,1.9,0.7862
+2022-04-01,5934,"Braddock, Theresa",Restroom,0.033333333,0.0138
+2022-04-01,6755,"Bradley, Carlesha",Break,0.5,0.0739
+2022-04-01,6755,"Bradley, Carlesha",Follow Up,5.516666667,0.8153
+2022-04-01,6755,"Bradley, Carlesha",Lunch,0.75,0.1108
+2022-04-01,9896,"Brand, Shavonne",ACW/ Open Time,0.016666667,0.0017
+2022-04-01,9896,"Brand, Shavonne",Break,0.5,0.0498
+2022-04-01,9896,"Brand, Shavonne",Follow Up,1.95,0.1944
+2022-04-01,9896,"Brand, Shavonne",Lunch,0.75,0.0748
+2022-04-01,9896,"Brand, Shavonne",Open Time,6.733333333,0.6711
+2022-04-01,9896,"Brand, Shavonne",Restroom,0.083333333,0.0083
+2022-04-01,9105,"Brazer, Sharee",ACW/ Open Time,2,0.2419
+2022-04-01,9105,"Brazer, Sharee",Break,0.55,0.0665
+2022-04-01,9105,"Brazer, Sharee",Follow Up,0.1,0.0121
+2022-04-01,9105,"Brazer, Sharee",Lunch,0.75,0.0907
+2022-04-01,9105,"Brazer, Sharee",Open Time,4.833333333,0.5847
+2022-04-01,9105,"Brazer, Sharee",Restroom,0.033333333,0.004
+2022-04-01,168,"Brent, Jemmie",ACW/ Open Time,0.133333333,0.0148
+2022-04-01,168,"Brent, Jemmie",Break,0.333333333,0.037
+2022-04-01,168,"Brent, Jemmie",Follow Up,1.433333333,0.159
+2022-04-01,168,"Brent, Jemmie",Lunch,0.5,0.0555
+2022-04-01,168,"Brent, Jemmie",Open Time,6.516666667,0.7227
+2022-04-01,168,"Brent, Jemmie",Restroom,0.083333333,0.0092
+2022-04-01,168,"Brent, Jemmie",System Down,0.016666667,0.0019
+2022-04-01,9286,"Brewington, Ke'andra",Break,0.533333333,0.059
+2022-04-01,9286,"Brewington, Ke'andra",Correspondence,8.5,0.941
+2022-04-01,8002,"Brinkley, Martinus",ACW/ Open Time,0.633333333,0.1689
+2022-04-01,8002,"Brinkley, Martinus",Break,0.3,0.08
+2022-04-01,8002,"Brinkley, Martinus",Open Time,2.633333333,0.7022
+2022-04-01,8002,"Brinkley, Martinus",Restroom,0.183333333,0.0489
+2022-04-01,10325,"Briones, Daniel",ACW/ Open Time,1.85,0.2298
+2022-04-01,10325,"Briones, Daniel",Break,0.5,0.0621
+2022-04-01,10325,"Briones, Daniel",Open Time,5.65,0.7019
+2022-04-01,10325,"Briones, Daniel",Unsched-Aux,0.05,0.0062
+2022-04-01,6352,"Brogden, Shanta",Break,0.5,0.0718
+2022-04-01,6352,"Brogden, Shanta",Coaching,0.45,0.0646
+2022-04-01,6352,"Brogden, Shanta",Follow Up,0.5,0.0718
+2022-04-01,6352,"Brogden, Shanta",Lunch,0.716666667,0.1029
+2022-04-01,6352,"Brogden, Shanta",Open Time,4.683333333,0.6723
+2022-04-01,6352,"Brogden, Shanta",Unsched-Aux,0.116666667,0.0168
+2022-04-01,9113,"Brown, Grace",ACW/ Open Time,0.733333333,0.2211
+2022-04-01,9113,"Brown, Grace",Break,0.25,0.0754
